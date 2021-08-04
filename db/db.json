@@ -1,0 +1,45 @@
+{
+  "login": [
+    {
+      "name": "chaitali",
+      "password": "food@123"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Pizza-hut",
+      "address": "Thane",
+      "email": "pizzahut@food.com",
+      "rating": "4.6"
+    },
+    {
+      "name": "McDonald",
+      "address": "Thane",
+      "email": "macdonald@food.com",
+      "rating": "3.5",
+      "id": 2
+    },
+    {
+      "name": "Misal",
+      "address": "Pune",
+      "email": "misal@food.com",
+      "rating": "2.7",
+      "id": 4
+    },
+    {
+      "name": "Tambala Rassa",
+      "address": "Kolhapur",
+      "email": "tambalarassa@food.com",
+      "rating": "3.9",
+      "id": 5
+    },
+    {
+      "name": "Bharit",
+      "address": "Jalgoan",
+      "email": "bharit@food.com",
+      "rating": "4.9",
+      "id": 6
+    }
+  ]
+}
